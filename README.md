@@ -26,7 +26,7 @@ Len-Den is a loan management system for the students of United International Uni
 <img src="Screenshots\3.png" alt="" style="width:957px;"/> <img src="Screenshots\4.png" alt="" style="width:957px;"/>
 <img src="Screenshots\5.png" alt="" style="width:957px;"> <img src="Screenshots\6.png" alt="" style="width:957px;"/>
 
- * Login /Singup
+ * Login & Singup
  
 <img src="Screenshots\7.png" alt="" style="width:957px;"/> <img src="Screenshots\8.png" alt="" style="width:957px;"/>
 
