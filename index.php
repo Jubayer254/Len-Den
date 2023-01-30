@@ -235,7 +235,7 @@ $num2 = mysqli_num_rows($result1x);
             <div class="icon-box">
               <div class="icon"><i class="bi bi-clock-history" style="color:#41cf2e;"></i></div>
               <h4 class="title"><a href="">Transaction History</a></h4>
-              <p class="description">Students csn view their history at any time</p><br>
+              <p class="description">Students can view their history at any time</p><br>
             </div>
           </div>
 
