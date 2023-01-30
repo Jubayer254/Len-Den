@@ -22,49 +22,57 @@ Len-Den is a loan management system for the students of United International Uni
 ## Snapshots
 * Index Page 
 
-<img src="Screenshots\1.png" alt="" style="width:501px;"/> <img src="Screenshots\2.png" alt="" style="width:390px;"/>
-<img src="Screenshots\3.png" alt="" style="width:480px;"/> <img src="Screenshots\4.png" alt="" style="width:471px;"/>
+<img src="Screenshots\1.png" alt="" style="width:957px;"/> <img src="Screenshots\2.png" alt="" style="width:957px;"/>
+<img src="Screenshots\3.png" alt="" style="width:957px;"/> <img src="Screenshots\4.png" alt="" style="width:957px;"/>
 <img src="Screenshots\5.png" alt="" style="width:957px;"> <img src="Screenshots\6.png" alt="" style="width:957px;"/>
 
  * Login /Singup
  
-<img src="Screenshots\7.png" alt="" style="width:480px;"/> <img src="Screenshots\8.png" alt="" style="width:480px;"/>
+<img src="Screenshots\7.png" alt="" style="width:957px;"/> <img src="Screenshots\8.png" alt="" style="width:957px;"/>
 
  * Forgot Password
 
-<img src="Screenshots\9.png" alt="" style="width:480px;"/> <img src="Screenshots\23.png" alt="" style="width:480px;"/>
+<img src="Screenshots\9.png" alt="" style="width:957px;"/> <img src="Screenshots\23.png" alt="" style="width:957px;"/>
 
  * Home Page
 
-<img src="Screenshots\10.png" alt="" style="width:480px;"/> <img src="Screenshots\11.png" alt="" style="width:480px;"/>
+<img src="Screenshots\10.png" alt="" style="width:957px;"/> <img src="Screenshots\11.png" alt="" style="width:957px;"/>
 
  * Request & Offer Loan
 
-<img src="Screenshots\12.png" alt="" style="width:480px;"/> <img src="Screenshots\13.png" alt="" style="width:480px;"/>
+<img src="Screenshots\12.png" alt="" style="width:957px;"/> <img src="Screenshots\13.png" alt="" style="width:957px;"/>
 
  * Change Password
 
-<img src="Screenshots\14.png" alt="" style="width:967px;"/>
+<img src="Screenshots\14.png" alt="" style="width:957px;"/>
 
-* My Loan & My Loan Offers
+* My Loan
 
-<img src="Screenshots\15.png" alt="" style="width:480px;"/> <img src="Screenshots\16.png" alt="" style="width:480px;"/>
+<img src="Screenshots\15.png" alt="" style="width:957px;"/>
 
-* My Requested Loan & My Given Offers
+My Loan Offers
 
-<img src="Screenshots\17.png" alt="" style="width:480px;"/> <img src="Screenshots\18.png" alt="" style="width:480px;"/>
+<img src="Screenshots\16.png" alt="" style="width:957px;"/>
+
+* My Requested Loan
+
+<img src="Screenshots\17.png" alt="" style="width:957px;"/>
+
+My Given Offers
+
+<img src="Screenshots\18.png" alt="" style="width:957px;"/>
 
 * My Given Loans
 
-<img src="Screenshots\19.png" alt="" style="width:480px;"/> 
+<img src="Screenshots\19.png" alt="" style="width:957px;"/> 
 
 * My Profile
 
-<img src="Screenshots\20.png" alt="" style="width:967px;"/>
+<img src="Screenshots\20.png" alt="" style="width:957px;"/>
 
  * Payment
 
-<img src="Screenshots\21.png" alt="" style="width:480px;"/> <img src="Screenshots\22.png" alt="" style="width:480px;"/>
+<img src="Screenshots\21.png" alt="" style="width:957px;"/> <img src="Screenshots\22.png" alt="" style="width:957px;"/>
 
 
 
