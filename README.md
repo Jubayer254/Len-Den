@@ -20,71 +20,15 @@ Len-Den is a loan management system for the students of United International Uni
 * Students can transfer money 24-hours anytime.
 
 ## Snapshots
-* Viewer
+* Index Page 
 
-  * Index Page (Part - 1)
+<img src="Screenshots\1.png" alt="" style="width:531px;"/> <img src="Screenshots\2.png" alt="" style="width:420px;"/>
+<img src="Screenshots\3.png" alt="" style="width:480px;"/> <img src="Screenshots\4.png" alt="" style="width:471px;"/>
+<img src="Screenshots\5.png" alt="" style="width:480px;"/> <img src="Screenshots\6.png" alt="" style="width:480px;"/>
 
-  <img src="Screenshots\1.png" alt="" style="width:1080px;"/>
-
-  * Index Page (Part - 2)
-
-  <img src="Screenshots\2.png" alt="" style="width:1080px;"/>
-
-  * Login Page
-
-  <img src="Screenshots\3.png" alt="" style="width:1080px;"/>
-
-  * SignUp Page
-
-  <img src="Screenshots\4.png" alt="" style="width:1080px;"/>
-  
-* User
-
-  * User Home Page
-
-  <img src="Screenshots\5.png" alt="" style="width:1080px;"/>
-
-  * Lecture Materials Page
-
-  <img src="Screenshots\6.png" alt="" style="width:1080px;"/>
-
-  * Quiz Exam Page
-
-  <img src="Screenshots\7.png" alt="" style="width:1080px;"/>
-
-  * Question Answer Forum Page
-  
-  <img src="Screenshots\8.png" alt="" style="width:1080px;"/>
-
-  * Career Guideline Page
-
-  <img src="Screenshots\9.png" alt="" style="width:1080px;"/>
-  
-* Admin
-  
-  * Admin Home Page
-
-  <img src="Screenshots\10.png" alt="" style="width:1080px;"/>
-
-  * Create New Admin Page
-  
-  <img src="Screenshots\11.png" alt="" style="width:1080px;"/>
-  
-  * Authenticate Lecture Materials Page
-  
-  <img src="Screenshots\12.png" alt="" style="width:1080px;"/>
-  
-  * View Feedback Page
-  
-  <img src="Screenshots\13.png" alt="" style="width:1080px;"/>
-  
-  * Create Quiz Page
-  
-  <img src="Screenshots\18.png" alt="" style="width:1080px;"/>
-  
-  * Create Career Guideline Page
-  
-  <img src="Screenshots\16.png" alt="" style="width:1080px;"/>
+ * Login /Singup
+ 
+<img src="Screenshots\7.png" alt="" style="width:480px;"/> <img src="Screenshots\8.png" alt="" style="width:480px;"/>
 
 
 ## Compatibility 
