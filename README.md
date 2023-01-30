@@ -50,7 +50,7 @@ Len-Den is a loan management system for the students of United International Uni
 
 <img src="Screenshots\15.png" alt="" style="width:957px;"/>
 
-My Loan Offers
+* My Loan Offers
 
 <img src="Screenshots\16.png" alt="" style="width:957px;"/>
 
@@ -58,7 +58,7 @@ My Loan Offers
 
 <img src="Screenshots\17.png" alt="" style="width:957px;"/>
 
-My Given Offers
+* My Given Offers
 
 <img src="Screenshots\18.png" alt="" style="width:957px;"/>
 
