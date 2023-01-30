@@ -22,7 +22,7 @@ Len-Den is a loan management system for the students of United International Uni
 ## Snapshots
 * Index Page 
 
-<img src="Screenshots\1.png" alt="" style="width:411px;"/> <img src="Screenshots\2.png" alt="" style="width:400px;"/>
+<img src="Screenshots\1.png" alt="" style="width:501px;"/> <img src="Screenshots\2.png" alt="" style="width:390px;"/>
 <img src="Screenshots\3.png" alt="" style="width:480px;"/> <img src="Screenshots\4.png" alt="" style="width:471px;"/>
 <img src="Screenshots\5.png" alt="" style="width:957px;"> <img src="Screenshots\6.png" alt="" style="width:957px;"/>
 
