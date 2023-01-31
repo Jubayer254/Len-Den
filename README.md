@@ -18,6 +18,7 @@ Len-Den is a loan management system for the students of United International Uni
 * Students can view their history at any time.
 * Every student has a rating depending on their loan returns.
 * Students can transfer money 24-hours anytime.
+* Dynamic Search.
 
 ## Snapshots
 * Index Page 
