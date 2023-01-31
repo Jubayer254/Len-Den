@@ -2,7 +2,7 @@
 ## Project Overview
 Len-Den is a loan management system for the students of United International University. Student can take loan from each other with interest or without interest. This is a automated system where it will remaind your next instalment with amount, due amount etc. Users can communicate with each other through messeging. This is a helping hand for the students of United International University in there crisis.
 ## Developed Using
-* Programing Languages: HTML, CSS, Bootstrap, JavaScript, AJAX, JQuery, PHP
+* Programing Languages: HTML, CSS, Bootstrap, JavaScript, JQuery, AJAX, PHP
 * Database: MySQL
 
 ## Developed By
